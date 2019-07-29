@@ -3,31 +3,31 @@
 }
 
 .scene path:first-child {
-	fill: #171819;
+	fill:  #F22E2E;      /*#8C4646*/
 }
 
 .scene path:nth-child(2) {
-	fill: #121212;
+	fill: #F29B30;        /*#D96459*/
 }
 
 .scene path:nth-child(3) {
-	fill: #0F0F0F;
+	fill: #F2B33D;       /* #F2AE72*/
 }
 
 .scene path:nth-child(4) {
-	fill: #121212;
+	fill: #2BBFBD;         /* #F2E394*/
 }
 
 .scene path:nth-child(5) {
-	fill: #0F0F0F;
+	fill: #588C7E;        /* #588C7E*/
 }
 
 .scene path:nth-child(6) {
-	fill: #171819;
+	fill: #171819;   /* #171819*/
 }
 
 .scene path:nth-child(7) {
-	fill: #0F0F0F;
+	fill: #0F0F0F;    /* #0F0F0F*/
 }
 
 .content-waves{
