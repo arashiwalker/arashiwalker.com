@@ -262,8 +262,9 @@ a {
 }
 
 .test-nav-link:hover {
-  border-bottom: 1px none #fff;
-  text-decoration: line-through;
+/*  border-bottom: 1px none #fff;
+  text-decoration: white wavy underline;*/
+  font-size: 200%;
 }
 
 .test-nav-link.w--current {
