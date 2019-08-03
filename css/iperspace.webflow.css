@@ -107,7 +107,7 @@ a {
   z-index: 0;
   width: 25%;
   height: 100%;
-  background-image: url('../images/hands.jpg');
+  background-image: url('../images/mainbusy.jpg');
   background-position: 50% 50%;
   background-size: cover;
   opacity: 0;
@@ -1120,7 +1120,7 @@ a {
   bottom: 0px;
   width: 100%;
   height: 100%;
-  background-image: url('../images/hands.jpg');
+  background-image: url('../images/mainbusy.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -1710,7 +1710,7 @@ html.w-mod-js *[data-ix="modal-interaction"] {
   }
   .link-case-mobile.one {
     display: block;
-    background-image: url('../images/hands.jpg');
+    background-image: url('../images/mainbusy.jpg');
     background-position: 50% 50%;
     background-size: cover;
   }
