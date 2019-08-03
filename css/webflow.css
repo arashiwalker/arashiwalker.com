@@ -1032,7 +1032,7 @@ textarea.w-select {
 /**
  * Wrapper around all lightbox elements
  *
- * 1. Since the lightbox can receive focus, IE also gives it an outline.
+ * 1. Since the lightbox can receive focus, IE also busynotbusys it an outline.
  * 2. Fixes flickering on Chrome when a transition is in progress
  *    underneath the lightbox.
  */
