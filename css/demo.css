@@ -3,23 +3,23 @@
 }
 
 .scene path:first-child {
-	fill:  #F22E2E;      /*#8C4646*/
+	fill: #890ABF;      /*#8C4646*/
 }
 
 .scene path:nth-child(2) {
-	fill: #F29B30;        /*#D96459*/
+	fill: #57078C;        /*#D96459*/
 }
 
 .scene path:nth-child(3) {
-	fill: #F2B33D;       /* #F2AE72*/
+	fill: #2F0459;       /* #F2AE72*/
 }
 
 .scene path:nth-child(4) {
-	fill: #2BBFBD;         /* #F2E394*/
+	fill: #1C0340;         /* #F2E394*/
 }
 
 .scene path:nth-child(5) {
-	fill: #588C7E;        /* #588C7E*/
+	fill: #0A2740;        /* #588C7E*/
 }
 
 .scene path:nth-child(6) {

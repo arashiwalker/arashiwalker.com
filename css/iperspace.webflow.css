@@ -53,8 +53,8 @@ a {
   display: block;
   width: 25%;
   height: 100%;
-  background-image: url('../images/dandelion.jpg');
-  background-position: 0px 50%;
+  background-image: url('../images/hands.jpg');
+  background-position: 50% 50%;
   background-size: cover;
   opacity: 0;
   -webkit-transform: translate(0%, -50%);
@@ -148,7 +148,7 @@ a {
   top: 50%;
   width: 25%;
   height: 100%;
-  background-image: url('../images/art2.jpeg');
+  background-image: url('../images/ragnaros.jpg');
   background-position: 50% 50%;
   background-size: cover;
   opacity: 0;
@@ -881,8 +881,8 @@ a {
 
 .thumb-full.annabelle1 {
   border-radius: 10px;
-  background-color: #edbdb3;
-  background-image: url('../images/3_1.jpg');
+  background-color: #003462;
+  background-image: url('../images/info.png');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -890,7 +890,8 @@ a {
 
 .thumb-full.annabelle2 {
   border-radius: 10px;
-  background-image: url('../images/3-min.jpg');
+  background-color: #ffb119
+  background-image: url('../images/work.jpg');
   background-position: 50% 50%;
   background-size: 1211px;
 }
@@ -898,7 +899,7 @@ a {
 .thumb-full.annabelle4 {
   border-radius: 6px;
   background-color: #fff;
-  background-image: url('../images/03.-min_1.png');
+  background-image: url('../images/work.png');
   background-position: 50% 100%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -910,7 +911,7 @@ a {
   margin-right: auto;
   margin-left: auto;
   background-color: #fff;
-  background-image: url('../images/info.png');
+  background-image: url('../images/githublogo.png');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -955,7 +956,7 @@ a {
   height: 100%;
   border-radius: 10px;
   background-color: #0172b6;
-  background-image: url('../images/claim-min.jpg');
+  background-image: url('../images/skyline.png');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -979,7 +980,7 @@ a {
 .thumb-full.decathlon3 {
   border-radius: 10px;
   background-color: #fff;
-  background-image: url('../images/dandelion.jpg');
+  background-image: url('../images/hands.jpg');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -1131,7 +1132,7 @@ a {
   top: 0px;
   width: 100%;
   height: 100%;
-  background-image: url('../images/dandelion.jpg');
+  background-image: url('../images/hands.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -1153,7 +1154,7 @@ a {
   top: 0px;
   width: 100%;
   height: 100%;
-  background-image: url('../images/art2.jpeg');
+  background-image: url('../images/ragnaros.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -1715,13 +1716,13 @@ html.w-mod-js *[data-ix="modal-interaction"] {
     background-size: cover;
   }
   .link-case-mobile.two {
-    background-image: url('../images/dandelion.jpg');
+    background-image: url('../images/hands.jpg');
     background-position: 50% 50%;
     background-size: cover;
   }
   .link-case-mobile.four {
-    background-image: url('../images/art2.jpeg');
-    background-position: 50% 50%;
+    background-image: url('../images/ragnaros.jpg');
+    background-position: 30% 50%;
     background-size: cover;
   }
   .link-case-mobile.five {
