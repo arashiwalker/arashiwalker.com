@@ -892,11 +892,15 @@ a {
 }
 
 .thumb-full.annabelle2 {
-  border-radius: 10px;
-  background-color: #ffb119
-  background-image: url('../images/work.jpg');
+  display: block;
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: #fff;
+  background-image: url('../images/HHpng.png');
   background-position: 50% 50%;
-  background-size: 1211px;
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 
 .thumb-full.annabelle4 {
@@ -914,7 +918,7 @@ a {
   margin-right: auto;
   margin-left: auto;
   background-color: #fff;
-  background-image: url('../images/githublogo.png');
+  background-image: url('../images/githublogo.gif');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
