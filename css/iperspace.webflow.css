@@ -880,9 +880,12 @@ a {
 }
 
 .thumb-full.annabelle1 {
-  border-radius: 10px;
-  background-color: #003462;
-  background-image: url('../images/info.png');
+  display: block;
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: #fff;
+  background-image: url('../images/places.gif');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
