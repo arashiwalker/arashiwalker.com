@@ -148,7 +148,7 @@ a {
   top: 50%;
   width: 25%;
   height: 100%;
-  background-image: url('../images/ragnaros.jpg');
+  background-image: url('../images/VR.jpg');
   background-position: 50% 50%;
   background-size: cover;
   opacity: 0;
@@ -924,6 +924,18 @@ a {
   background-repeat: no-repeat;
 }
 
+.thumb-full.xtra11 {
+  display: block;
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: #fff;
+  background-image: url('../images/vr.gif');
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
 .thumb-full.xtra8 {
   position: static;
   padding-top: 100px;
@@ -1161,7 +1173,7 @@ a {
   top: 0px;
   width: 100%;
   height: 100%;
-  background-image: url('../images/ragnaros.jpg');
+  background-image: url('../images/VR.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
