@@ -262,8 +262,7 @@ a {
 }
 
 .test-nav-link:hover {
-  border-bottom: 1px none #fff;
-  text-decoration: line-through;
+  font-size: 100%;
 }
 
 .test-nav-link.w--current {
@@ -337,6 +336,10 @@ a {
 
 .text-block.black {
   color: #2c2d2d;
+}
+
+.text-block:hover{
+  font-size: 100%;
 }
 
 .explore-more {
@@ -656,7 +659,7 @@ a {
 }
 
 .icon-social:hover {
-  text-decoration: none;
+  font-size:100%;
 }
 
 .icon-social:focus {
@@ -1740,7 +1743,7 @@ html.w-mod-js *[data-ix="modal-interaction"] {
     background-size: cover;
   }
   .link-case-mobile.four {
-    background-image: url('../images/ragnaros.jpg');
+    background-image: url('../images/VR.jpg');
     background-position: 30% 50%;
     background-size: cover;
   }
