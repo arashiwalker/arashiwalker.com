@@ -1904,7 +1904,7 @@ html.w-mod-js *[data-ix="modal-interaction"] {
   }
 }
 
-@media (max-width: 300px) {
+@media (max-width: 479px) {
   body {
     background-position: 50% 50%;
     background-size: auto 100vh;
